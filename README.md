@@ -1,8 +1,8 @@
-# Principio de Responsabilidad Única (SRP)
+# Principio de Responsabilidad Única (Single Responsability Principle)
 
-Proyecto en **C++** que demuestra el primer principio SOLID: **Single Responsibility Principle**.
+Proyecto en C++ que demuestra el primer principio SOLID: En español como Principio de Responsabilidad Única.
 
-## ¿Qué dice el principio?
+## ¿Qué es este principio?
 
 > Una clase debe tener **una sola razón para cambiar**, es decir, una sola responsabilidad.
 
