@@ -1,4 +1,4 @@
-# Principio de Responsabilidad Única (Single Responsability Principle)
+o# Principio de Responsabilidad Única (Single Responsability Principle)
 
 Proyecto en C++ que demuestra el primer principio SOLID: En español como Principio de Responsabilidad Única.
 
